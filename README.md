@@ -30,3 +30,6 @@ https://www.publico.pt/api/list/ultimas
 
 ## INE - Instituto Nacional de Estatística
 https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt
+
+## Lisboa Aberta
+http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores
