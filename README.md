@@ -27,3 +27,6 @@ https://observador.pt/wp-json/wp/v2/
 
 ## Publico (incomplete)
 https://www.publico.pt/api/list/ultimas
+
+## INE - Instituto Nacional de Estatística
+https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt
