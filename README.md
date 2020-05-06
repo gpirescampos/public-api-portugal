@@ -16,3 +16,14 @@ https://dados.gov.pt/pt/apidoc/
 ## TransporLis
 https://www.transporlis.pt/Default.aspx?tabid=258&language=pt-PT
 
+## NIF
+https://www.nif.pt/api/
+
+## Arquivo.pt
+https://github.com/arquivo/pwa-technologies/wiki/APIs
+
+## Obesrvador 
+https://observador.pt/wp-json/wp/v2/
+
+## Publico (incomplete)
+https://www.publico.pt/api/list/ultimas
