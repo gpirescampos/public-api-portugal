@@ -1,6 +1,9 @@
 # public-api-portugal
 A list of public APIs from Portuguese entities
 
+## dados.gov
+https://dados.gov.pt/pt/apidoc/
+
 ## IPMA - Instituto Português do Mar e da Atmosfera
 https://api.ipma.pt/
 
