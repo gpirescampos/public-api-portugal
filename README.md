@@ -22,7 +22,7 @@ https://www.nif.pt/api/
 ## Arquivo.pt
 https://github.com/arquivo/pwa-technologies/wiki/APIs
 
-## Obesrvador 
+## Observador 
 https://observador.pt/wp-json/wp/v2/
 
 ## Publico (incomplete)
