@@ -26,7 +26,7 @@ https://www.nif.pt/api/
 https://github.com/arquivo/pwa-technologies/wiki/APIs
 
 ## Observador 
-https://observador.pt/wp-json/wp/v2/
+https://observador.pt/wp-json/
 
 ## Publico (incomplete)
 https://www.publico.pt/api/list/ultimas
