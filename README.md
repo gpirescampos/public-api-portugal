@@ -36,3 +36,6 @@ https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt
 
 ## Lisboa Aberta
 http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores
+
+## PT-NEWS-EXTRACTOR
+https://github.com/spamz23/PT-NEWS_EXTRACTOR
