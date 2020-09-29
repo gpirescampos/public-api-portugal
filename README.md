@@ -10,9 +10,6 @@ https://api.ipma.pt/
 ## Metro de Lisboa
 https://api.metrolisboa.pt/store/
 
-## Carris
-https://carris.tecmic.com/index.html
-
 ## Dados Gov
 https://dados.gov.pt/pt/apidoc/
 
@@ -39,3 +36,6 @@ http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores
 
 ## PT-NEWS-EXTRACTOR
 https://github.com/spamz23/PT-NEWS_EXTRACTOR
+
+## EMEL
+https://emel.city-platform.com/opendata/
