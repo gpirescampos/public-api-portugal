@@ -1,6 +1,9 @@
 # public-api-portugal
 A list of public APIs from Portuguese entities
 
+## vost.pt
+https://covid19-api.vost.pt/
+
 ## dados.gov
 https://dados.gov.pt/pt/apidoc/
 
