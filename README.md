@@ -42,3 +42,6 @@ https://github.com/spamz23/PT-NEWS_EXTRACTOR
 
 ## EMEL
 https://emel.city-platform.com/opendata/
+
+## Plataforma de Dados Abertos Georreferenciados do Turismo de Portugal
+https://dadosabertos.turismodeportugal.pt/
