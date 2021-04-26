@@ -45,3 +45,6 @@ https://emel.city-platform.com/opendata/
 
 ## Plataforma de Dados Abertos Georreferenciados do Turismo de Portugal
 https://dadosabertos.turismodeportugal.pt/
+
+## Administrative Regions of Portugal Detection (Carta Administrativa Oficial de Portugal - CAOP 2020)
+https://github.com/jfoclpf/geo-pt-api
