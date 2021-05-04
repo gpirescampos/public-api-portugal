@@ -48,3 +48,6 @@ https://dadosabertos.turismodeportugal.pt/
 
 ## Administrative Regions of Portugal Detection (Carta Administrativa Oficial de Portugal - CAOP 2020)
 https://github.com/jfoclpf/geo-pt-api
+
+## Comboios de Portugal
+https://github.com/juliuste/comboios
