@@ -4,7 +4,7 @@ A list of public APIs from Portuguese entities
 ## vost.pt
 https://covid19-api.vost.pt/
 
-## dados.gov
+## Dados Gov
 https://dados.gov.pt/pt/apidoc/
 
 ## IPMA - Instituto Português do Mar e da Atmosfera
@@ -12,9 +12,6 @@ https://api.ipma.pt/
 
 ## Metro de Lisboa
 https://api.metrolisboa.pt/store/
-
-## Dados Gov
-https://dados.gov.pt/pt/apidoc/
 
 ## TransporLis
 https://www.transporlis.pt/Default.aspx?tabid=258&language=pt-PT
