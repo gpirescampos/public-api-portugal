@@ -5,7 +5,7 @@ A list of public APIs from Portuguese entities
 https://covid19-api.vost.pt/
 
 ## Dados Gov
-https://dados.gov.pt/pt/apidoc/
+https://dados.gov.pt/pt/docapi/
 
 ## IPMA - Instituto Português do Mar e da Atmosfera
 https://api.ipma.pt/
