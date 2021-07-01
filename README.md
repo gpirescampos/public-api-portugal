@@ -1,3 +1,5 @@
+DESCONTINUADO. Este repositório encontra-se agora em https://github.com/devpt-org/public-api-portugal
+
 # public-api-portugal
 A list of public APIs from Portuguese entities
 
